@@ -1,0 +1,75 @@
+# Time management {#sec-time}
+
+Time management is the process of planning and exercising conscious control over the time spent on specific activities, especially to increase effectiveness, efficiency and productivity. It helps you organise and plan how to divide your time between different activities. By learning to manage your time, you can improve your work, increase your productivity, lower your stress and build a healthy balance between work and the rest of your life.
+
+## The time management matrix
+
+The time management matrix is a self-management tool now widely used to prioritise important tasks and to identify time-wasters. It helps you decide which activities are important, which are urgent, and which are merely distractions or interruptions. Tasks are classified into four quadrants (@tbl-matrix):
+
+1. **Urgent and important.** Examples: the birth of your child; a customer complaint; an assignment due tomorrow.
+2. **Important but not urgent.** Examples: paying your taxes; getting your vehicle serviced; calling your mother; preparing steadily for an examination.
+3. **Urgent but not important.** Example: answering every e-mail within ten minutes of receiving it.
+4. **Neither urgent nor important.** Examples: a binge-watching session; reading the comments under a news article.
+
+: The time management matrix {#tbl-matrix .bordered}
+
+| | **Urgent** | **Not urgent** |
+|:--|:--|:--|
+| **Important** | Quadrant 1: Urgent and important (do it now) | Quadrant 2: Important but not urgent (plan and schedule it) |
+| **Not important** | Quadrant 3: Urgent but not important (limit or delegate it) | Quadrant 4: Neither urgent nor important (avoid it) |
+
+Effective people try to spend most of their time in Quadrant 2. Activities in this quadrant, such as planning, preparation, building relationships and looking after one's health, prevent many tasks from becoming urgent crises in Quadrant 1 later.
+
+::: {.callout-caution title="Historical Insights"}
+The matrix is often called the *Eisenhower matrix*, after US President Dwight D. Eisenhower. In a 1954 address he quoted a former college president: "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent." The idea was popularised as a four-quadrant time management tool by Stephen R. Covey in *The 7 Habits of Highly Effective People* [@covey1989].
+:::
+
+## Benefits of effective time management
+
+1. Reduced stress
+2. Increased productivity
+3. A positive reputation
+4. Improved focus
+5. Reaching goals faster
+6. Better quality of work
+7. More confidence
+8. Improved self-discipline
+
+::: {.callout-note title="Practical assignment"}
+Complete the time management exercise given in the practical class. Record how you spent each hour of a typical day for one week, group the activities into categories (study, sleep, meals, travel, recreation, social media and so on), and draw a **pie chart** showing the share of the day spent on each category. Then place each activity in one of the four quadrants of the time management matrix and write down three changes you will make.
+:::
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. Time management aims to increase effectiveness, efficiency and __________.
+2. The time management matrix classifies tasks into __________ quadrants.
+3. Paying taxes before the deadline is near is an example of a task that is important but not __________.
+4. Answering every e-mail within minutes of receiving it is usually urgent but not __________.
+5. The time management matrix is also called the __________ matrix.
+6. Effective people try to spend most of their time in Quadrant __________.
+
+### Short-answer questions {.unnumbered}
+
+1. Define time management. Why is it important for students?
+2. Explain the time management matrix with examples for each quadrant.
+3. Why should we try to spend more time on activities that are important but not urgent?
+4. List the benefits of effective time management.
+5. Classify ten of your own daily activities into the four quadrants of the time management matrix.
+
+### Quick revision {.unnumbered}
+
+- Time management → conscious control of time spent on activities.
+- Matrix → urgent/not urgent × important/not important.
+- Quadrant 1 → do now; Quadrant 2 → plan; Quadrant 3 → limit or delegate; Quadrant 4 → avoid.
+- Quadrant 2 → planning and prevention; reduces future crises.
+- Benefits → less stress, more productivity, focus, confidence and self-discipline.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` productivity `2.` four `3.` urgent `4.` important `5.` Eisenhower `6.` 2
+:::

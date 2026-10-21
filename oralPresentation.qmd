@@ -1,0 +1,133 @@
+# Oral presentation {#sec-oral}
+
+An oral presentation is essentially a spoken form of technical writing; it involves both the activity and the art of speaking to the public. With the spread of modern media and technology, oral presentation has become a significant means of communication for scientists, engineers and other technical personnel. The presentation situation rests on interaction between the presenter and the audience. Because it brings the listener face to face with the presenter, an oral presentation also broadens the thinking of those who wrote the underlying report or project. It is therefore important for every presenter to acquire the skills of oral presentation. This chapter builds on the general principles of @sec-presentation.
+
+## Features of an oral presentation
+
+- It is a participative, two-way communication process.
+- It is purposeful, interactive and audience oriented.
+- It communicates a message in a way that brings about the desired change in the audience's understanding and opinion.
+
+## How to make a good oral presentation
+
+### Conquering stage fright
+
+Stage fright arises mainly because most of us are not accustomed to speaking in public. Its signs include trembling hands, excessive sweating and loss of fluency. To overcome it:
+
+- prepare the subject thoroughly;
+- do some warm-up exercises;
+- eat a healthy meal and drink enough water;
+- rehearse the presentation.
+
+### Knowing the audience
+
+Before planning the presentation, consider:
+
+- the age group of the audience;
+- the needs of the audience;
+- the usefulness of the presentation to them;
+- the information they should gain after attending it.
+
+### Content of the presentation
+
+- It should not be too difficult to understand.
+- If it is too long, shorten it to fit the time available.
+- Include examples and illustrations to support the argument.
+
+### Structure of the presentation
+
+A typical presentation has three parts: the beginning, the middle and the end (introduction, body and conclusion).
+
+[**The beginning (introduction)**]{.underline}
+
+The beginning is the most important part of a presentation, so be confident and well prepared for it.
+
+- Greet the audience: "Hello", "Good morning", and so on.
+- Introduce yourself, for example: "Good afternoon, ladies and gentlemen. Let me introduce myself…" or "Good morning, everyone. I'd like to start by introducing myself. My name is…"
+- Give the title and introduce the subject, using phrases such as "I plan to speak about…", "Today I'm going to talk about…", "The subject of my presentation is…", "The theme of my talk is…" or "I've been asked to give you an overview of…".
+- Give a brief outline of the main points you will cover.
+
+[**The middle (body)**]{.underline}
+
+- Provide detailed information about the topic.
+- Give clear explanations.
+- Provide enough evidence to be convincing.
+- Use analogies and stories to explain complicated ideas and to reinforce key points.
+
+[**The end (conclusion)**]{.underline}
+
+- Summarise your points.
+- Conclude the topic with the ideas developed in the talk.
+- End with "Thank you."
+- If you are taking questions, tell the audience: "I'll now be happy to answer any questions."
+
+### Delivery of the presentation
+
+[**Quality of voice**]{.underline}
+
+- Adjust your volume and tone to the size of the audience.
+- Use a microphone or collar microphone where needed.
+- Pause at appropriate points.
+- Pronounce difficult words clearly and correctly.
+
+[**Rapport with the audience**]{.underline}
+
+- Make eye contact with the audience.
+- Shift your gaze from one person to another so that you take in everyone.
+- Involve the audience by asking questions.
+
+[**Body language**]{.underline}
+
+- Express confidence through your smile and movements.
+- Stand straight, and do not stay rooted to one spot.
+- Avoid unnecessary hand movements.
+- Dress formally.
+
+[**Effective use of visual aids**]{.underline}
+
+- Keep the layout pleasant and easy to read; a horizontal (landscape) layout is preferable.
+- Use clear fonts such as Arial, Helvetica, Times New Roman, Futura, Optima, Verdana, New Century Schoolbook or Courier. Some organisations prescribe a particular style.
+- Use a font size of 20 or more, depending on the size of the room. A useful scheme is 20 points for main headings, 16 for subheadings and 14 for other text.
+- Use capital letters, bold face, italics, underlining, reverse type (white on black) or shading to highlight key points, but sparingly.
+
+::: {.callout-note title="Practical assignment"}
+Prepare a ten-minute oral presentation with slides on a topic of your choice from biotechnology. Record the opening sentences you will use for the greeting, self-introduction and outline, and the closing sentences for the summary and invitation to questions.
+:::
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. An oral presentation is essentially a spoken form of __________ writing.
+2. An oral presentation is a participative, __________-way communication process.
+3. Fear of speaking in public, shown by trembling and loss of fluency, is called __________ fright.
+4. The three parts of a presentation are the introduction, the body and the __________.
+5. The most important part of a presentation is the __________.
+6. For slides, a __________ (landscape) layout is preferable.
+7. A suggested font size for main headings on slides is __________ points.
+
+### Short-answer questions {.unnumbered}
+
+1. What is an oral presentation? List its features.
+2. How can a presenter conquer stage fright?
+3. What should a presenter know about the audience before planning a presentation?
+4. Describe the structure of an oral presentation, with suitable phrases for the introduction and conclusion.
+5. Explain the points to be kept in mind for effective delivery of an oral presentation.
+6. Give guidelines for the effective use of visual aids.
+
+### Quick revision {.unnumbered}
+
+- Oral presentation → spoken form of technical writing; two-way, purposeful and audience oriented.
+- Stage fright → prepare, warm up, eat and drink well, rehearse.
+- Audience → age group, needs, usefulness, expected learning.
+- Structure → introduction (greet, introduce, title, outline) → body (detail, evidence, stories) → conclusion (summary, thanks, questions).
+- Delivery → voice, rapport, body language, visual aids.
+- Slides → landscape layout, clear fonts, 20/16/14 point sizes.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` technical `2.` two `3.` stage `4.` conclusion `5.` beginning (introduction) `6.` horizontal `7.` 20
+:::

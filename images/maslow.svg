@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="500" viewBox="0 0 720 500">
+  <rect width="720" height="500" fill="#ffffff"/>
+  <!-- apex (360,30), base y=470 from x=60 to x=660; 5 bands of 88px -->
+  <polygon points="360,30 420,118 300,118" fill="#E54D23" stroke="#ffffff" stroke-width="3"/>
+  <polygon points="300,118 420,118 480,206 240,206" fill="#E8A33D" stroke="#ffffff" stroke-width="3"/>
+  <polygon points="240,206 480,206 540,294 180,294" fill="#5E9C76" stroke="#ffffff" stroke-width="3"/>
+  <polygon points="180,294 540,294 600,382 120,382" fill="#2F7A78" stroke="#ffffff" stroke-width="3"/>
+  <polygon points="120,382 600,382 660,470 60,470" fill="#0E4D4A" stroke="#ffffff" stroke-width="3"/>
+  <text x="360" y="100" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Self-</text>
+  <text x="360" y="114" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff">actualisation</text>
+  <text x="360" y="168" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Esteem</text>
+  <text x="360" y="256" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Social (belonging)</text>
+  <text x="360" y="344" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Safety</text>
+  <text x="360" y="432" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Physiological</text>
+  <!-- right-side examples -->
+  <g font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#333333">
+    <text x="440" y="80">being the best one can be</text>
+    <text x="490" y="166">praise, recognition, status</text>
+    <text x="548" y="254">relationships,</text>
+    <text x="548" y="270">belonging to groups</text>
+    <text x="608" y="334">security,</text>
+    <text x="608" y="350">job security</text>
+    <text x="668" y="424">food,</text>
+    <text x="668" y="440">water</text>
+  </g>
+  <!-- arrow on left: lower needs first -->
+  <line x1="40" y1="460" x2="40" y2="60" stroke="#333333" stroke-width="2"/>
+  <path d="M32,72 L40,52 L48,72 Z" fill="#333333"/>
+  <text x="26" y="260" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#333333" transform="rotate(-90 26 260)">needs satisfied from the bottom up</text>
+</svg>

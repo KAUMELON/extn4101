@@ -1,0 +1,170 @@
+# Presentation skills {#sec-presentation}
+
+A presentation is a talk, usually given in a formal setting such as a business, technical, professional or scientific environment, in which something is set before an audience for their attention and understanding. Presenting is a skill developed through experience and training. The key elements of a presentation are the presenter, the audience, the message, the reaction of the audience, and the method used to deliver the message effectively.
+
+> *"Presentation is not what you say. It is the way that you say it."*
+
+## Why we give presentations
+
+Understanding the true purpose of a presentation helps you prepare and deliver it more effectively. Common purposes are:
+
+- **To teach or train.** Anyone who works in a teaching role gives this kind of presentation regularly: teachers, professors, professional trainers, tour guides, podcast hosts, news anchors and many others.
+- **To gather opinions.** A presentation can be used to collect the views of an audience on a topic of interest.
+- **To publicise an idea.** Managers, consultants, freelance professionals, doctors and entrepreneurs often have an idea they want, or need, to share with others.
+- **To share research findings.** Such presentations give an overview of research carried out by an individual or a group.
+- **To highlight a problem.** A presentation can draw attention to a problem of real importance and seek a solution to it.
+- **To pass on information.** Similar to teaching, but the aim is to communicate as much information as possible in the time available. Many organisations expect students or employees to report progress at key stages of a project in this way.
+- **To entertain.** An amusing historical talk, a story or a reading can hold a crowd; entertaining an audience well is a truly artistic skill and a very rewarding one.
+
+## Seven basic steps in a presentation
+
+1. Decide what you want to achieve.
+2. Decide whether a formal presentation is the best way to achieve this objective.
+3. If you decide to go ahead, decide what form the presentation should take.
+4. Prepare a script, in whatever form suits you best.
+5. Design and prepare your visual aids and handouts.
+6. Rehearse properly.
+7. Deliver it.
+
+## Skills needed for effective delivery
+
+[**Enthusiasm and commitment to the topic**]{.underline}
+
+Believe in what you are saying, because most audiences can detect a fake almost instantly. Prepare carefully and understand the topic so well that you cannot help being enthusiastic about it. Most people would rather listen to *anything* presented with enthusiasm than to the most important information presented dully.
+
+[**Knowledge of the topic**]{.underline}
+
+Understand your subject before you start speaking. Content is central to any presentation, and it must be accurate, factual and well organised.
+
+[**Understanding of the audience**]{.underline}
+
+While preparing, always keep in mind what the audience needs and wants to know, not merely what you can tell them.
+
+[**Appearing to be in control**]{.underline}
+
+Appear relaxed and confident. Smile and make eye contact with the audience; this builds the rapport that helps listeners connect with you and your subject.
+
+[**Use of voice and body language**]{.underline}
+
+Varying your speed, pitch and tone makes your voice more interesting and holds the audience's attention. A large part of communication is non-verbal, so your body language is as important as your words. Avoid crossed arms, hands held behind your back or in your pockets, and pacing up and down the stage.
+
+[**A style suited to the audience and the objective**]{.underline}
+
+The best style depends on the subject, the audience and the way you prefer to explain the material. You may keep one style throughout, or mix styles to explain the topic better.
+
+[**Handling questions with ease**]{.underline}
+
+If you can relax, you will almost certainly present better and handle questions more comfortably. If you actually start to enjoy yourself, the audience will respond and engage better, and your confidence will grow with every presentation.
+
+[**Retaining your natural style**]{.underline}
+
+One of the most important factors in a successful presentation is the ability to look and act naturally. If you are stiff, uncomfortable and "not yourself", the audience will notice and respond poorly. Refine particular elements of your delivery, but keep your own style.
+
+[**Reading the mood of the audience**]{.underline}
+
+While presenting, stay alert to how the audience is responding, and adapt when their mood changes.
+
+## Effect of the venue and seating on the audience
+
+The room and its arrangement can help or hinder a presentation before the speaker says a word. @tbl-venue lists common problems and their effect on the audience.
+
+: Effect of venue and seating arrangements on the audience {#tbl-venue .bordered}
+
+| Venue or seating condition | Effect on the audience |
+|:---------------------------|:-----------------------|
+| Room too large | Feels inhibiting and uncomfortable; prevents building rapport; often becomes too cold |
+| Room too small | Feels claustrophobic and awkward for lack of personal space; often becomes too hot |
+| Room with pillars | Restricts vision |
+| Poorly lit room | Hinders attention |
+| Seating too close together | Uncomfortable |
+| Members cannot see each other when speaking | Creates barriers and resentment |
+| No tables | Awkward for anyone who wants to take notes |
+| Room decorated with irrelevant posters and charts | Distracts attention |
+| A hostile member seated in the centre of the speaker's field of vision | Difficult to control; can dominate, creating resentment among other members of the audience |
+| Speaker on a platform | A very strong, controlling position |
+| Speaker with many notes sharing a table with the audience | Inhibiting for everyone |
+
+## Statements that make a presentation work
+
+- Presentations need clear and specific objectives.
+- Nerves can ruin a presenter's confidence, so prepare well to keep them in check.
+- It is not what you say but the way that you say it.
+- Small is beautiful: a short, focused presentation often works better than a long one.
+- Use a "hook" at the start of the talk.
+- A presentation needs a beginning, a middle and an end.
+- The audience plays an important part in the preparation stage.
+- Presenters can "win" or "lose" their audience within the first few minutes.
+- Visual aids should enhance the presentation, not distract from it.
+
+## Personal presentation
+
+- Stand at ease. Avoid settling in one spot, leaning to one side, leaning over the podium or sitting on the table.
+- Take care of your style of speaking: make your voice expressive and take care of your voice.
+- Rehearse; rehearsal is a must for efficient delivery.
+- Avoid the following postures:
+  - hands on the waist, which shows arrogance;
+  - hands in the pockets, which looks too casual;
+  - hands behind the back, which looks authoritarian, stiff and too formal;
+  - arms folded over the stomach, which shows a defensive attitude;
+  - rubbing hands together, which looks fussy and possibly dishonest.
+- Select visual aids suited to your presentation.
+- Arrange the room in advance: seating plan, electronic equipment, drinking water and so on.
+- Stick to the time plan.
+- Use handouts when necessary.
+
+## A three-step framework for every presentation
+
+A simple framework that works for almost every presentation is:
+
+**Step 1.** Tell participants what you will cover: review the objectives and explain what they will experience (questions, a case study, a discussion and so on).
+
+**Step 2.** Deliver the content and facilitate learning through activities, exercises, discussion and audience response.
+
+**Step 3.** Remind the audience what you have discussed and accomplished together, and link back to your objectives.
+
+## Conclusion
+
+Presenting information clearly and effectively is a key skill in getting a message across, and the present era places great emphasis on it. Within an organisation, managers with good presentation skills are better able to communicate the mission and vision of the organisation to its employees.
+
+::: {.callout-note title="Practical assignment"}
+Prepare and deliver a short presentation on the topic assigned to you in the practical class. Attach the first assigned document (the script or slides) to your practical record.
+:::
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. The key elements of a presentation are the presenter, the audience, the message, the reaction and the __________ of delivery.
+2. The last of the seven basic steps in a presentation, before delivery, is to __________ properly.
+3. A presentation needs a beginning, a middle and an __________.
+4. Something used at the start of a talk to catch attention is called a __________.
+5. Keeping hands on the waist while presenting shows __________.
+6. A room that is too large often prevents building __________ with the audience.
+7. Visual aids should __________ the presentation, not distract from it.
+
+### Short-answer questions {.unnumbered}
+
+1. Define a presentation and list its key elements.
+2. Explain the different purposes for which presentations are given.
+3. List the seven basic steps in preparing a presentation.
+4. Describe the skills needed for effective delivery of a presentation.
+5. How can the venue and seating arrangement affect the attitude of an audience?
+6. List the postures a presenter should avoid, and state what each one conveys.
+7. Explain the three-step framework for presentations.
+
+### Quick revision {.unnumbered}
+
+- Presentation → presenter, audience, message, reaction and method of delivery.
+- Purposes → teach, gather opinions, publicise an idea, share research, highlight a problem, pass on information, entertain.
+- Seven steps → objective, decide on format, choose form, script, visual aids, rehearse, deliver.
+- Delivery → enthusiasm, knowledge, audience awareness, control, voice and body language, natural style.
+- Venue → room size, light, pillars, seating and decoration all affect audience attitude.
+- Three-step framework → tell them what you will cover, deliver, remind them what was covered.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` method `2.` rehearse `3.` end `4.` hook `5.` arrogance `6.` rapport `7.` enhance
+:::

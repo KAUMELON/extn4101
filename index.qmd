@@ -1,0 +1,37 @@
+# Welcome {.unnumbered}
+
+![](images/kaulogo.png){fig-align="center" width="110px" fig-alt="Kerala Agricultural University logo"}
+
+::: {style="text-align:center"}
+**KERALA AGRICULTURAL UNIVERSITY**\
+**COLLEGE OF AGRICULTURE, VELLAYANI**\
+Thiruvananthapuram 695 522
+
+**EXTN 4101 Professional and Personal Skill Development (1+2)**\
+B.Sc.–M.Sc. (Integrated) Biotechnology
+
+*Course Teacher*\
+**Dr. Esakkimuthu M.**\
+Assistant Professor, Department of Agricultural Extension Education\
+College of Agriculture, Vellayani
+:::
+
+Welcome to *Professional and Personal Skill Development*, the online course book for EXTN 4101, offered to students of the B.Sc.–M.Sc. (Integrated) Biotechnology programme at the College of Agriculture, Vellayani, Kerala Agricultural University.
+
+A good degree opens the door to an interview, a fellowship or a laboratory; what happens after the door opens depends heavily on how well you can speak, write, organise, argue, manage your time and work with other people. These are the skills this course sets out to build. Each chapter corresponds to one lecture of the course and is paired with a practical session in which you put the ideas to work: a group discussion, a popular science article, a presentation, a debate, a quiz, an event, or a time management exercise.
+
+The book is deliberately practical. Concepts are kept short, followed by checklists of what to do and what to avoid, and every chapter closes with a *Chapter Summary* containing fill-in-the-blank questions, short-answer questions and a quick revision list to help you prepare for the examination.
+
+### How to use this book {.unnumbered}
+
+- Read the chapter **before** the corresponding practical class, so that the class time can be spent practising rather than listening.
+- Complete the **Practical assignment** box in each chapter and keep the written record in your practical notebook.
+- Use the **Chapter Summary** at the end of each chapter for self-assessment. Answers to the fill-in-the-blank questions are given at the end of every chapter.
+
+### Acknowledgements {.unnumbered}
+
+This book is based on the lecture notes of EXTN 4101 prepared by Dr. Esakkimuthu M., Department of Agricultural Extension Education, College of Agriculture, Vellayani (2021–22). The notes have been reorganised, edited and converted into an online book on the MeLON (Module for eLearning and Online Notes) platform of the College of Agriculture, Vellayani.
+
+### Copyright Information {.unnumbered}
+
+The online edition is licensed under the [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International licence](https://creativecommons.org/licenses/by-nc-nd/4.0/), as stated in the footer.

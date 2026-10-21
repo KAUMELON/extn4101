@@ -1,0 +1,32 @@
+# About the course {.unnumbered}
+
+**Course:** EXTN 4101 Professional and Personal Skill Development\
+**Credits:** 3 (1 theory + 2 practical)\
+**Programme:** B.Sc.–M.Sc. (Integrated) Biotechnology\
+**Department:** Agricultural Extension Education, College of Agriculture, Vellayani
+
+## Lecture schedule {.unnumbered}
+
+: Lecture schedule of EXTN 4101 {#tbl-schedule .bordered}
+
+| Lecture No. | Topic | Chapter |
+|:-----------:|:------|:--------|
+| 1 | Group discussion | @sec-gd |
+| 2 | Popular science articles | @sec-popsci |
+| 3 | Presentation skills | @sec-presentation |
+| 4 | Event management | @sec-event |
+| 5 | Debate | @sec-debate |
+| 6 | Quiz | @sec-quiz |
+| 7 | Time management | @sec-time |
+| 8 | Oral presentation | @sec-oral |
+| 9 | Leadership and motivation | @sec-leadership |
+
+## How the book is organised {.unnumbered}
+
+The nine lectures are grouped into three parts. **Communication Skills** brings together the lectures on group discussion, popular science writing, presentation skills and oral presentation, since all four deal with getting a message across to an audience. **Competitive and Organisational Skills** covers debate, quiz and event management, three activities in which students both participate and organise. **Personal Effectiveness** closes the book with time management, leadership and motivation.
+
+The chapters on *Presentation skills* (@sec-presentation) and *Oral presentation* (@sec-oral) are best read together: the first deals with planning, venue and delivery in general, and the second with the structure and language of a spoken presentation.
+
+## Practical record {.unnumbered}
+
+Each chapter ends its main text with a **Practical assignment** box describing what you should record in your practical notebook after the corresponding practical class. Keep these records neat and up to date; they form part of the internal assessment.

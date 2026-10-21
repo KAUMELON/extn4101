@@ -1,0 +1,74 @@
+# Quiz {#sec-quiz}
+
+A quiz is a game or mind sport in which players attempt to answer questions correctly on one subject or on a variety of subjects. It is a test of knowledge, usually held as a competition between individuals or teams. Questions can take many formats: single or multiple choice, fill in the blank, find the word, matching, and picture, audio or video questions.
+
+The objective of a quiz competition is to encourage students to look beyond their textbooks and to connect the theory they have learnt with its applications. Quizzes also reveal gaps in knowledge and highlight areas that need more revision.
+
+In education, a quiz is often a brief form of assessment used to measure growth in knowledge, abilities or skills. Compared with a formal test, a quiz usually has fewer and easier questions and takes less time to complete. A *pop quiz* is one given without any warning, so that students have no time to prepare.
+
+::: {.callout-tip title="Did you know?"}
+The expansion of QUIZ as "Quick Uniform Intelligence Zone", often seen in quiz programmes, is a *backronym*: a phrase invented to fit an existing word. The word *quiz* itself is not an acronym, and its origin is uncertain.
+:::
+
+## Procedure for conducting a quiz
+
+[**Step 1: Know your audience**]{.underline}
+
+Every successful quiz is pitched at the right level for the people taking part. Find out who the participants are (school students, undergraduates, postgraduates or the general public) and what they can reasonably be expected to know.
+
+[**Step 2: Choose a topic and a title**]{.underline}
+
+The title should be attractive, should draw in the intended audience, and should be short and to the point. However good the questions are, a dull title can keep participants away.
+
+[**Step 3: Frame the questions**]{.underline}
+
+Keep the questions short and clear. Avoid long or complicated questions that confuse participants or make them lose interest. Mix easy and difficult questions, and arrange them in rounds of different formats to keep the quiz lively. Check every answer against a reliable source before the event.
+
+[**Step 4: Plan the scoring and the results**]{.underline}
+
+Decide in advance how points will be awarded, whether there will be negative marking, and how ties will be broken. When announcing results, keep the tone positive so that every participant, including those who did not win, leaves feeling encouraged.
+
+[**Step 5: Follow up**]{.underline}
+
+A quiz should lead somewhere: to further reading, a related event, or a chance for participants to learn more about the topic. In online quizzes this is called a *call to action*, shown to participants along with their results.
+
+[**Step 6: Make it shareable**]{.underline}
+
+Encourage participants to share their experience and results. People share results that make them feel good or smart, so present results in an uplifting way. For online quizzes, a shareable title and attractive results help the quiz reach a wider audience.
+
+::: {.callout-note title="Practical assignment"}
+The biotechnology quiz **BIOTECHWHIZ** was conducted as part of *SymBIOT: Celebrating Biotech Conclave* for school students, undergraduates and postgraduates. In about one page, handwritten, record the details of the quiz: the rounds, the formats of the questions, the subject areas covered, the scoring scheme, and your role in organising or participating.
+:::
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. A quiz is a form of game or mind __________ in which players answer questions.
+2. A quiz given without warning is called a __________ quiz.
+3. Compared with a test, a quiz usually has __________ questions and takes less time.
+4. A phrase invented to fit an existing word, such as "Quick Uniform Intelligence Zone", is called a __________.
+5. In an online quiz, the prompt shown with the results that asks participants to take a further step is called a __________.
+
+### Short-answer questions {.unnumbered}
+
+1. What is a quiz? What is the objective of a quiz competition?
+2. How is a quiz different from a test?
+3. Explain the steps in conducting a quiz.
+4. What points should be kept in mind while framing quiz questions?
+5. Plan a three-round quiz on biotechnology for undergraduate students, stating the format of each round and the scoring scheme.
+
+### Quick revision {.unnumbered}
+
+- Quiz → mind sport and test of knowledge, individual or team.
+- Purpose → link theory with application; reveal gaps in knowledge.
+- Pop quiz → given without warning.
+- Steps → know the audience → topic and title → frame questions → plan scoring and results → follow up → make it shareable.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` sport `2.` pop `3.` fewer `4.` backronym `5.` call to action
+:::

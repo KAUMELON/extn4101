@@ -1,0 +1,86 @@
+# Popular science articles {#sec-popsci}
+
+A popular science article is an interpretation of science intended for a general audience. Such articles aim to inform non-specialist readers about new scientific insights and discoveries. Popular science is closely related to science journalism, which focuses on recent scientific developments, and it may be written either by professional science journalists or by scientists themselves. It appears in many forms, including books, film and television documentaries, magazine articles and web pages.
+
+For a biotechnology student, writing for the public is an important skill. Research that cannot be explained to the people who fund it, use it or are affected by it loses much of its value.
+
+## Tips for writing a good popular science article
+
+[**Ask the right questions**]{.underline}
+
+Begin ordering your ideas by asking yourself: *what? where? when? how? why?* and *who?* Once you know what you want to communicate, and why, lay out your core idea first and expand on it in the rest of the article. Always be clear about the exact purpose of what you are writing; a clear intent gives you a much better chance of producing an effective article.
+
+[**Structure the article well**]{.underline}
+
+Know where you are going. Set up a human connection and a question at the start that carries the reader from beginning to end, rewarding them with clues along the way, and place the take-home message at the end. Readers tend to remember the beginning and the end of a piece, along with any high point in the middle, so plan those three moments carefully.
+
+[**Use a catchy title**]{.underline}
+
+A good title excites readers and catches their attention. A popular science title should attract non-specialists and should be short. Avoid technical terms; combining a difficult term with an easy phrase can sometimes make the reader curious. For example:
+
+- *Membrane proteins: Saint Peter of the cells*
+- *Birds of a feather: do they always flock together?*
+- *And God said, "Let there be light", preferably modulated light*
+- *Can you control your genes, or do your genes control you?*
+- *What has 24 eyes but no brain?*
+
+[**Write for a non-specialist reader**]{.underline}
+
+In a popular science article, research results are communicated to readers who are not specialists in your topic. Assume that they have no knowledge beyond high school science, but always respect their intelligence. Give an overview of the study, provide only the most significant information, and simplify the results. Be accurate, but avoid too many details. Avoid long, flowery phrases and follow the principle of one idea per sentence.
+
+[**Avoid jargon**]{.underline}
+
+There may be words, acronyms and abbreviations that people outside your field simply would not know. Be aware of your reader's knowledge and choose words and phrases you are certain they will understand. If a technical term cannot be avoided, explain it the first time it appears.
+
+[**Use the active voice**]{.underline}
+
+Where possible, use the active voice rather than the passive. The aim is to engage the reader, and active, personal language does exactly that. For example, instead of writing *"the reactions of various metals were tested"*, write *"we tested the reactions of various metals"*. Adding the word *we* makes the writing more personal.
+
+## Concluding advice
+
+- Make sure the content and language of the article suit a wide circle of readers.
+- Keep the title short and catchy.
+- Structure the article well.
+- Describe methods and techniques only briefly.
+- When describing results, focus on what they mean and how they can be applied.
+- Use as few technical terms as possible and avoid excessively long sentences.
+
+::: {.callout-note title="Practical assignment"}
+Choose a recent research finding in biotechnology and write a popular science article of about 600 to 800 words on it. Give it a catchy title, open with a human connection, and end with a clear take-home message.
+:::
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. A popular science article is an interpretation of science intended for a __________ audience.
+2. Readers tend to remember the beginning, the __________ and a high point in the middle of an article.
+3. A popular science title should be short and should avoid __________ terms.
+4. Assume that your readers have no knowledge beyond __________ school science.
+5. A good writing principle is one __________ per sentence.
+6. Popular science writing should preferably use the __________ voice.
+
+### Short-answer questions {.unnumbered}
+
+1. What is a popular science article? Who writes such articles?
+2. Explain the tips and techniques for writing a good popular science article.
+3. Why should jargon be avoided in popular science writing?
+4. Rewrite the sentence "The samples were analysed by the team" in the active voice, and explain why the active voice is preferred.
+5. Suggest three catchy titles for popular science articles on topics from your own field.
+
+### Quick revision {.unnumbered}
+
+- Popular science → science interpreted for a general, non-specialist audience.
+- Planning → ask what, where, when, how, why and who.
+- Structure → human connection at the start, take-home message at the end.
+- Title → short, catchy, free of technical terms.
+- Language → no jargon, active voice, one idea per sentence.
+- Results → explain what they mean and how they can be applied.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` general `2.` end `3.` technical `4.` high `5.` idea `6.` active
+:::

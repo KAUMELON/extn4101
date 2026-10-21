@@ -1,0 +1,103 @@
+# Group discussion {#sec-gd}
+
+Group discussion (GD) is a comprehensive technique used to judge the suitability of individuals for admission, scholarships, jobs and similar opportunities. A GD assesses the overall personality of an individual (thoughts, feelings and behaviour) while working in a group. A topic is presented to the group members for discussion, and while the discussion goes on, a panel of observers watches the participants. Through this observation the panel judges the intellectual, social, leadership and communication skills of each candidate.
+
+## Importance of group discussion
+
+Admission to many universities and business schools, campus placements after graduation, and recruitment to multinational companies all look for two things: knowledge of the field, and the ability to work in a group, either as a leader or as a member. A group discussion is a very effective way of judging the second of these, the candidate's ability to work with others.
+
+## Skills judged in a group discussion
+
+The panel observing a group discussion usually looks for:
+
+- how well you communicate with others;
+- how easily you behave and interact with the other members of the group;
+- how open-minded you are;
+- how flexible or rigid you are in accepting the viewpoints of others;
+- your leadership skills;
+- your analytical abilities;
+- your problem-solving and critical thinking skills;
+- your time management skills;
+- your ability to put forth ideas in an unbiased manner;
+- your social attitude and confidence.
+
+## Components of a group discussion
+
+[**Purpose**]{.underline}
+
+The first component is the purpose of holding the discussion. The aim of a group discussion is to arrive at a satisfactory conclusion, and a GD usually helps the group decide the next course of action.
+
+[**Planning**]{.underline}
+
+Planning is a crucial element. A group discussion that aims to arrive at a decision cannot be a random expression of ideas; it has to be planned so that every step takes the group closer to its goal.
+
+[**Participation**]{.underline}
+
+Participation of the members is the life of any group discussion. Every member has to be drawn into the discussion, and it should not be dominated by a few.
+
+## Do's and don'ts of participating in a group discussion
+
+: Do's and don'ts in a group discussion {#tbl-gd-dos .bordered}
+
+| Do's | Don'ts |
+|:-----|:-------|
+| Think before you speak. | Do not initiate the discussion if you do not know the topic well. |
+| If you know little about the topic, pick up clues from the discussion and add points intelligently. | Do not go overboard in displaying your knowledge, even if you know the topic well. |
+| Back up your points with facts and figures where needed. | Do not interrupt other members when they are speaking. |
+| Be gentle and sure in presenting your views. | Do not change your opinion only because most of the group holds a different one. |
+| Speak to the point and do not repeat points already made. | Do not lose confidence if an earlier speaker presented a point better than you could. |
+| Be calm and composed while speaking. | Do not ask irrelevant questions. |
+| Listen to others; listening is also part of participation. | Do not let your personal biases about the topic enter the discussion. |
+| Respect the viewpoints of others. | |
+| Let your body language show that you are at ease. | |
+| If the discussion turns hostile, intervene to calm it; this shows leadership and problem-solving skill. | |
+
+## Preparing for a group discussion
+
+Nobody knows in advance what the topic of a GD will be, so it is wise to keep yourself informed on a broad range of subjects.
+
+1. **Current affairs.** Read newspapers regularly and follow the news. Understand the current crises facing the world, recent development initiatives, relations between countries, and similar issues.
+2. **Historical topics.** Have a fair knowledge of the history of your own country and of other countries. The topic may not come directly from history, but historical information helps you cite examples and make references when needed.
+3. **Sports, arts and literature.** Keep a general awareness of major events, personalities and works in these areas.
+4. **Data.** Familiarise yourself with important figures and statistics. A relevant number used at the right moment creates a strong impression on the assessors.
+
+Read as widely as possible and build sound knowledge on many topics; documentaries help here. Improve your vocabulary, not so that you can use heavy words, but so that you understand topics better and contribute effectively. Finally, picture yourself succeeding in the discussion; confidence comes from preparation.
+
+::: {.callout-note title="Practical assignment"}
+Write down the points you would raise in a group discussion on the topic **"Indian education during the COVID-19 pandemic"**. Organise them as an opening statement, three or four main points with supporting facts, and a concluding statement.
+:::
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. A group discussion assesses the overall __________ of an individual in a group.
+2. The aim of a group discussion is to arrive at a satisfactory __________.
+3. The three components of a group discussion are purpose, planning and __________.
+4. The participants of a GD are observed by a group of __________.
+5. A discussion that aims at a decision should not be a random expression of __________.
+6. If the discussion turns hostile, intervening to calm it shows your leadership and __________ skills.
+
+### Short-answer questions {.unnumbered}
+
+1. What is a group discussion? Why is it used in selection processes?
+2. List the skills that are judged in a group discussion.
+3. Explain the components of a group discussion.
+4. List five do's and five don'ts of participating in a group discussion.
+5. How should a candidate prepare for a group discussion when the topic is not known in advance?
+
+### Quick revision {.unnumbered}
+
+- Group discussion → judges thoughts, feelings and behaviour of an individual working in a group.
+- Panel of observers → judges intellectual, social, leadership and communication skills.
+- Components → purpose, planning, participation.
+- Participation → the life of a GD; should not be dominated by a few.
+- Preparation → current affairs, history, sports, arts and literature, and data.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` personality `2.` conclusion `3.` participation `4.` panelists `5.` ideas `6.` problem-solving
+:::

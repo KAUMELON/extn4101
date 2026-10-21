@@ -1,0 +1,139 @@
+# Event management {#sec-event}
+
+An **event** can be described as a public gathering for the purpose of celebration, education, marketing or reunion. Events can be classified by size, type and context. Three broad categories are:
+
+- **Education and career events.** Academic events bring together students, academicians and industry representatives to discuss topics related to education. The aim is to bring the views of these three stakeholders closer through the exchange of opinions and experience. Seminars, workshops and conferences are examples.
+- **Corporate events.** Companies host meetings, conventions, workshops, presentations and similar events. Some are formal and small (for example, a meeting of the board of directors), while others are large and may be formal or informal (for example, business dinners and banquets).
+- **Social events.** Social gatherings symbolise togetherness and bonding, and are usually organised to celebrate major life events and religious occasions. Weddings, anniversaries and gala dinners are social events, while festival celebrations such as Navaratri and Ganesh Chaturthi combine religious and social elements.
+
+**Event management** is the process of analysing, planning, marketing, producing and evaluating an event. It is also a distinct way of promoting a product, a service or an idea: a well-managed event can be a very powerful promotional tool for launching or marketing a product or service.
+
+## SWOT analysis
+
+SWOT analysis is a strategic planning tool used to identify and analyse the **S**trengths, **W**eaknesses, **O**pportunities and **T**hreats involved in a project. It helps the organiser make the most of strengths and opportunities and reduce the impact of weaknesses and threats. Strengths and weaknesses are *internal* to the organising team; opportunities and threats come from the *external* environment (@tbl-swot).
+
+: SWOT analysis for an event {#tbl-swot .bordered}
+
+| | Helpful to the event's objectives | Harmful to the event's objectives |
+|:--|:--|:--|
+| **Internal** | **Strengths**: experienced event team, high motivation, good market share | **Weaknesses**: lack of funds, inexperienced team, low energy, lack of media and corporate contacts |
+| **External** | **Opportunities**: little competition, favourable economic conditions, support from local authorities | **Threats**: strong competition, bad weather, unavailability of materials, no support from local authorities |
+
+## Planning with the five W's
+
+An event plan is built around five questions: **Why, What, When, Where** and **Who**.
+
+[**Why**]{.underline}
+
+Why do you want to organise the event? This is the *event objective*: what you want to get out of it. You may want to enhance your organisation's image, increase sales, or promote a social cause. The objective gives direction to everything else. Organising an event without clear objectives is a huge waste of time and resources.
+
+[**What**]{.underline}
+
+What will happen at the event? This covers:
+
+- **Event name:** use your imagination to create a title that attracts guests.
+- **Programme:** the list of activities that will take place during the event.
+- **Budget:** the cost of producing and marketing the event.
+- **Food and beverage menu:** the food and drinks to be served.
+- **Guest profile:** the guest list, including organisers, sponsors, partners, clients and, especially, the media.
+
+[**When**]{.underline}
+
+When will the event be held (date and time)? While choosing:
+
+1. Select a date and time convenient for the target audience. Avoid working days, examination periods and festival times; weekends are usually best.
+2. Make sure the event does not clash with other events, especially bigger ones.
+3. Consider the likely weather conditions.
+
+[**Where**]{.underline}
+
+Where will the event be held? The venue depends on:
+
+- the size of the expected audience;
+- the convenience of the audience;
+- the history of the venue.
+
+The venue should comfortably hold the expected audience, being neither too small nor too large, and should not be far from where most of the audience lives.
+
+[**Who**]{.underline}
+
+Who will be the organisers, sponsors, partners, clients and target audience? How many people do you expect to attend, and why? You need a sound answer to this "why", because you will have to convince prospective organisers and sponsors that the expected number will actually attend.
+
+## Event marketing
+
+An event must be advertised: to create awareness, to attract sponsors and participants, and to thank sponsors and clients afterwards. Marketing is mainly done through five kinds of media: **print, electronic, outdoor, transit** and **miscellaneous** media.
+
+## Event evaluation
+
+Evaluation makes you more efficient and effective the next time you organise an event. It is about finding your mistakes and learning from them, and it should be done immediately after the event, for example by collecting feedback forms from participants and clients.
+
+## An overview of the process
+
+First, analyse the event. Then prepare an event plan by studying your market, and bring together organisers, sponsors, partners and clients. Finally, prepare an *event calendar*: an ordered list of the activities needed to produce and market the event. These activities are of three types: **pre-event**, **at-event** and **post-event**.
+
+## Seven steps for perfect programme planning
+
+**Step 1. Understand the need for a strategic plan.** Assess the needs of the people the programme is meant for by listening, observing and examining data. Set priorities based on concern and importance.
+
+**Step 2. Plan.** Planning is the most important stage in achieving the proposed objectives. Visualise what you want to achieve; without this you cannot measure the results or verify that the objective was achieved. Two tools help at this stage:
+
+- **Logic model.** A graphic representation of the programme showing what is to be invested (inputs), what is to be done (activities and outputs) and what the results will be (outcomes). It is a common framework for the work and the core of programme planning and evaluation.
+- **SMART objectives.** Learning objectives should be **S**pecific (what exactly will you accomplish?), **M**easurable (how will you know you have reached it?), **A**chievable (is it realistic with effort and commitment?), **R**elevant (why is it significant to the programme?) and **T**ime-bound (when will you achieve it?).
+
+**Step 3. Develop the programme.** Select the format and draw up the programme schedule. Select and organise the content and the educational resources.
+
+**Step 4. Promote.** Estimate the overall expense and take steps to obtain resources and sponsors. Prepare attractive marketing material aimed at the target audience.
+
+**Step 5. Deliver.** Aim to create a positive learning experience for the audience. Practise before delivery, and work in groups with clearly assigned duties.
+
+**Step 6. Evaluate.** Collect feedback from the audience.
+
+**Step 7. Communicate results.** Report the outcome of the programme. Discuss every suggestion received, and put together the expenses and estimates for evaluation.
+
+::: {.callout-caution title="Historical Insights"}
+The SMART acronym was introduced by George T. Doran in a 1981 article in *Management Review* titled "There's a S.M.A.R.T. way to write management's goals and objectives" [@doran1981]. In Doran's original version, the "A" stood for *assignable* and the "T" for *time-related*; later writers changed the words, but the idea of testing every objective against five criteria remained.
+:::
+
+::: {.callout-note title="Practical assignment"}
+Plan an event for your college (for example, a seminar, an exhibition or a biotech conclave). Prepare a SWOT analysis, an event plan using the five W's, three SMART objectives, and an event calendar listing pre-event, at-event and post-event activities.
+:::
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. Event management is the process of analysing, planning, marketing, producing and __________ an event.
+2. In SWOT analysis, opportunities and threats are __________ factors.
+3. The "Why" of the five W's refers to the event __________.
+4. An ordered list of activities needed to produce and market an event is called an event __________.
+5. Event activities are of three types: pre-event, at-event and __________ activities.
+6. A graphic representation of a programme showing inputs, activities and results is called a __________ model.
+7. In SMART objectives, the letter "M" stands for __________.
+
+### Short-answer questions {.unnumbered}
+
+1. Define an event and classify events with examples.
+2. What is event management? Why is it considered a promotional tool?
+3. Explain SWOT analysis with reference to organising an event.
+4. Explain the five W's of event planning.
+5. Why are event marketing and event evaluation necessary?
+6. Explain the seven steps for perfect programme planning.
+7. What are SMART objectives? Write two SMART objectives for a workshop.
+
+### Quick revision {.unnumbered}
+
+- Event → public gathering for celebration, education, marketing or reunion.
+- Types → education and career, corporate, social.
+- SWOT → internal strengths and weaknesses; external opportunities and threats.
+- Five W's → why (objective), what (name, programme, budget, menu, guests), when, where, who.
+- Marketing media → print, electronic, outdoor, transit, miscellaneous.
+- Programme planning → need, plan, develop, promote, deliver, evaluate, communicate results.
+- SMART → specific, measurable, achievable, relevant, time-bound.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` evaluating `2.` external `3.` objective `4.` calendar `5.` post-event `6.` logic `7.` measurable
+:::

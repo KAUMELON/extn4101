@@ -1,0 +1,103 @@
+# Debate {#sec-debate}
+
+A debate is a structured argument. Two sides speak alternately for and against a particular motion, usually based on a topical issue. Unlike the arguments you may have with family or friends, each speaker is allotted a fixed time, and any interruptions are carefully controlled. The motion is often decided in advance, so you may find yourself supporting opinions with which you do not normally agree. You also argue as part of a team, and must be careful not to contradict what others on your side have said.
+
+## Why debate?
+
+Debating is an excellent way of improving speaking skills, and it is particularly useful for gaining experience in building a convincing argument. Those who are asked to argue against their natural point of view soon realise that arguments, like coins, always have at least two sides.
+
+## Basic debating skills
+
+Debating skills fall under three heads: **style**, **content** and **strategy**. This chapter deals with the first two.
+
+### Style
+
+Style is the manner in which you communicate your arguments. It is the most basic part of debating to master, because content and strategy are worth little unless the material is delivered in a confident and persuasive way.
+
+[**Speed**]{.underline}
+
+Speak at a pace that is fast enough to sound intelligent and to let you say what you want, but slow enough to be easily understood.
+
+[**Tone**]{.underline}
+
+Varying your tone is what makes you sound interesting. Listening to one tone for an entire speech is boring.
+
+[**Volume**]{.underline}
+
+Speaking loudly is sometimes necessary, but there is no need to shout through every debate regardless of context. Speak at a volume at which everyone in the room can hear you comfortably, and no louder. Shouting does not win debates; speaking too quietly is equally disastrous, since no one will hear you.
+
+[**Clarity**]{.underline}
+
+The ability to express complex issues clearly and concisely is what debating is all about. Speakers usually become unclear when they lose the stream of thought that keeps them going. Keep it simple: long words may make you sound clever, but they may also make you incomprehensible.
+
+[**Use of notes and eye contact**]{.underline}
+
+Notes are essential, but they must be brief and well organised to be effective. There is no point in trying to speak without notes, but notes should never become obtrusive, damage your contact with the audience, or be read out word for word. Most speakers sketch the main headings of their speech with brief points under each.
+
+While noting points for rebuttal during the debate, it is usually better to use a separate sheet: take down what the other speakers have said, then transfer a rough outline onto the notes you will actually use.
+
+Eye contact with the audience is very important, but keep shifting your gaze; no one likes to be stared at.
+
+### Content
+
+Content is what you actually say in the debate: the arguments used to develop your own side's case and to rebut the other side's. The practical details (how long each speaker has, how many members are in a team, and which team speaks first) are fixed by the teacher conducting the debate.
+
+[**The case as a whole**]{.underline}
+
+*Introduction.* The case your team is making must be outlined at the start. State your main arguments and explain the general thrust of the case. Do this briefly, since the most important thing is to get on and actually argue it. It is also useful to indicate which aspects of the motion each team member will cover.
+
+*Conclusion.* At the end, once everyone has spoken, briefly summarise what your team has said and why.
+
+[**The case in parts**]{.underline}
+
+Having outlined the whole argument, build the case in parts. The best way is to divide the case into two to four arguments, or according to the number of speakers in the team. Justify each argument with logic, worked examples, statistics and quotations. Debating is all about *proof*: evidence supporting your assertion is what turns it into an argument.
+
+Arguments can be grouped in several ways, for example political, economic and social; moral and practical; or international and regional. If no grouping fits, simply present individual arguments. Under each heading, explain the reasoning behind the argument and justify it with evidence. It is usually best to put the most important argument first.
+
+An example of a case outline:
+
+> "The media exert more influence over what people think than the government does. This is true for **three** reasons. **Firstly**, most people base their votes on what they see and hear in the media. **Secondly**, the media can set the political agenda between elections by deciding which issues to report and in how much detail. **Thirdly**, the media have successfully demonised politicians over the last ten years, so that people are now more likely to believe journalists than politicians."
+
+Every argument in this outline is debatable (counter-arguments come to mind almost immediately), but together they give the case a wide range covering many issues. The trick is not to build a watertight case, but a well-argued one.
+
+::: {.callout-note title="Practical assignment"}
+A debate was conducted in the practical class on the motion **"The minimum legal age of marriage for women should be raised to 21 years."** Record the case outline of your team, the arguments you presented with their supporting evidence, and the main points of rebuttal from the opposing team.
+:::
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. A debate is a __________ argument.
+2. The manner in which you communicate your arguments is called __________.
+3. What you actually say in a debate is called its __________.
+4. Evidence supporting an assertion is what turns it into an __________.
+5. A case is usually divided into between two and __________ arguments.
+6. Notes for a debate should never be read out __________.
+7. It is usually best to put the most __________ argument first.
+
+### Short-answer questions {.unnumbered}
+
+1. What is a debate? How does it differ from an ordinary argument?
+2. Why is debating useful for students?
+3. Explain the elements of style in debating.
+4. How should notes be used during a debate?
+5. Explain how a team should build its case, both as a whole and in parts.
+6. Prepare a case outline, with three arguments, for or against a motion of your choice.
+
+### Quick revision {.unnumbered}
+
+- Debate → structured argument; two sides speak alternately for and against a motion.
+- Style → speed, tone, volume, clarity, notes and eye contact.
+- Content → arguments for your own case and rebuttal of the other side.
+- Case as a whole → outlined in the introduction, summarised in the conclusion.
+- Case in parts → two to four arguments, each proved with logic, examples, statistics and quotations.
+- Aim → a well-argued case, not a watertight one.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` structured `2.` style `3.` content `4.` argument `5.` four `6.` verbatim (word for word) `7.` important
+:::

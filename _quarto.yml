@@ -1,0 +1,89 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - assets/
+    - "*.png"
+    - "*.svg"
+    - "!docs/**"
+
+book:
+  title: "PROFESSIONAL AND PERSONAL SKILL DEVELOPMENT"
+  subtitle: "Course notes for EXTN 4101 (1+2), B.Sc.–M.Sc. (Integrated) Biotechnology"
+  favicon: images/cover.png
+  author:
+    - Dr. Esakkimuthu M.
+  date: "2026-10-21"
+  date-format: "D MMMM YYYY"
+  reader-mode: true
+  page-navigation: true
+  back-to-top-navigation: true
+  search: true
+  site-url: https://kaumelon.github.io/extn4101/
+  repo-url: https://github.com/KAUMELON/extn4101
+  image: images/cover.png
+  image-alt: "Professional and Personal Skill Development"
+  open-graph:
+    image: images/cover.png
+    image-alt: "Professional and Personal Skill Development"
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - part: "Communication Skills"
+      chapters:
+        - groupDiscussion.qmd
+        - popularScience.qmd
+        - presentationSkills.qmd
+        - oralPresentation.qmd
+    - part: "Competitive and Organisational Skills"
+      chapters:
+        - debate.qmd
+        - quiz.qmd
+        - eventManagement.qmd
+    - part: "Personal Effectiveness"
+      chapters:
+        - timeManagement.qmd
+        - leadershipMotivation.qmd
+  appendices:
+    - references.qmd
+  twitter-card:
+    image: images/cover.png
+    image-alt: "Professional and Personal Skill Development"
+    card-style: summary_large_image
+  sidebar:
+    logo: images/cover.png
+  page-footer:
+    border: true
+    left: |
+        Published by PAPAYA publishing division of <a href="https://www.statoberry.com/papaya">![](/images/statoberry.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+    center: |
+        <a href="https://www.statoberry.com/papaya">![](/images/papayalogo.png){style='width: auto; height: 90px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+    right: |
+        Licenced under [CC-BY-NC-ND 4.0 Int License](https://creativecommons.org/licenses/by-nc-nd/4.0/) <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">![](/images/cclogo.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+        Built with <a href="https://quarto.org/">Quarto</a>
+  cover-image: images/cover.png
+
+bibliography:
+  - book.bib
+
+format:
+  html:
+    filters:
+      - compact-tables.lua
+    include-in-header: table-math-config.html
+    mainfont: Georgia
+    monofont: Fira Code
+    highlight-style: arrow
+    number-sections: true
+    monobackgroundcolor: "#F7F7F7"
+    theme:
+      light:
+        - theme.css
+        - theme.scss
+        - lumen
+      dark:
+        - darktheme.css
+        - darktheme.scss
+        - slate
+
+number-depth: 3
