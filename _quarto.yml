@@ -55,9 +55,9 @@ book:
   page-footer:
     border: true
     left: |
-        Published by PAPAYA publishing division of <a href="https://www.statoberry.com/papaya">![](/images/statoberry.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+        Published on **MeLON** (Module for e-Learning & Online Notes)<br>College of Agriculture, Vellayani, Kerala Agricultural University
     center: |
-        <a href="https://www.statoberry.com/papaya">![](/images/papayalogo.png){style='width: auto; height: 90px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+        ![](/images/melon.png){style='width: auto; height: 90px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;' fig-alt='MeLON logo'}
     right: |
         Licenced under [CC-BY-NC-ND 4.0 Int License](https://creativecommons.org/licenses/by-nc-nd/4.0/) <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">![](/images/cclogo.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
         Built with <a href="https://quarto.org/">Quarto</a>

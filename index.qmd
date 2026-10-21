@@ -1,36 +1,62 @@
 # Welcome {.unnumbered}
 
-![](images/kaulogo.png){fig-align="center" width="110px" fig-alt="Kerala Agricultural University logo"}
+Welcome to *Professional and Personal Skill Development*, the online course book for **EXTN 4101**, offered to students of the B.Sc.–M.Sc. (Integrated) Biotechnology programme at the College of Agriculture, Vellayani, Kerala Agricultural University.
 
-::: {style="text-align:center"}
-**KERALA AGRICULTURAL UNIVERSITY**\
-**COLLEGE OF AGRICULTURE, VELLAYANI**\
-Thiruvananthapuram 695 522
+A good degree opens the door to an interview, a fellowship or a laboratory; what happens after the door opens depends heavily on how well you can speak, write, organise, argue, manage your time and work with other people. These are the skills this course sets out to build.
 
-**EXTN 4101 Professional and Personal Skill Development (1+2)**\
-B.Sc.–M.Sc. (Integrated) Biotechnology
+### Author {.unnumbered}
 
-*Course Teacher*\
+::: {.grid}
+::: {.g-col-12 .g-col-md-3 style="text-align:center"}
+![](images/kaulogo.png){width="110px" fig-alt="Kerala Agricultural University logo"}
+:::
+::: {.g-col-12 .g-col-md-9}
 **Dr. Esakkimuthu M.**\
-Assistant Professor, Department of Agricultural Extension Education\
-College of Agriculture, Vellayani
+Assistant Professor\
+Department of Agricultural Extension Education\
+College of Agriculture, Vellayani\
+Thiruvananthapuram 695 522, Kerala\
+Kerala Agricultural University
+:::
 :::
 
-Welcome to *Professional and Personal Skill Development*, the online course book for EXTN 4101, offered to students of the B.Sc.–M.Sc. (Integrated) Biotechnology programme at the College of Agriculture, Vellayani, Kerala Agricultural University.
+### The course at a glance {.unnumbered}
 
-A good degree opens the door to an interview, a fellowship or a laboratory; what happens after the door opens depends heavily on how well you can speak, write, organise, argue, manage your time and work with other people. These are the skills this course sets out to build. Each chapter corresponds to one lecture of the course and is paired with a practical session in which you put the ideas to work: a group discussion, a popular science article, a presentation, a debate, a quiz, an event, or a time management exercise.
+: Course details {#tbl-course .bordered}
 
-The book is deliberately practical. Concepts are kept short, followed by checklists of what to do and what to avoid, and every chapter closes with a *Chapter Summary* containing fill-in-the-blank questions, short-answer questions and a quick revision list to help you prepare for the examination.
+| | |
+|:--|:--|
+| **Course** | EXTN 4101 Professional and Personal Skill Development |
+| **Credits** | 3 (1 theory + 2 practical) |
+| **Programme** | B.Sc.–M.Sc. (Integrated) Biotechnology |
+| **Offered by** | Department of Agricultural Extension Education |
+| **Institution** | College of Agriculture, Vellayani, Kerala Agricultural University |
+| **Lectures** | 9, each with a corresponding practical session |
+
+### About this book {.unnumbered}
+
+Each chapter corresponds to one lecture of the course and is paired with a practical session in which you put the ideas to work: a group discussion, a popular science article, a presentation, a debate, a quiz, an event, or a time management exercise. The book is deliberately practical. Concepts are kept short and followed by checklists of what to do and what to avoid, and every chapter closes with a *Chapter Summary* for self-assessment.
 
 ### How to use this book {.unnumbered}
 
-- Read the chapter **before** the corresponding practical class, so that the class time can be spent practising rather than listening.
-- Complete the **Practical assignment** box in each chapter and keep the written record in your practical notebook.
-- Use the **Chapter Summary** at the end of each chapter for self-assessment. Answers to the fill-in-the-blank questions are given at the end of every chapter.
+1. Read the chapter **before** the corresponding practical class, so that class time can be spent practising rather than listening.
+2. Complete the **Practical assignment** box in each chapter and keep the written record in your practical notebook.
+3. Use the **Chapter Summary** at the end of each chapter for revision. Answers to the fill-in-the-blank questions are given at the end of every chapter.
 
 ### Acknowledgements {.unnumbered}
 
-This book is based on the lecture notes of EXTN 4101 prepared by Dr. Esakkimuthu M., Department of Agricultural Extension Education, College of Agriculture, Vellayani (2021–22). The notes have been reorganised, edited and converted into an online book on the MeLON (Module for eLearning and Online Notes) platform of the College of Agriculture, Vellayani.
+This book is based on the lecture notes of EXTN 4101 prepared by Dr. Esakkimuthu M., Department of Agricultural Extension Education, College of Agriculture, Vellayani (2021–22). The notes have been reorganised, edited and converted into an online book for the MeLON platform.
+
+### Published on MeLON {.unnumbered}
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3 style="text-align:center"}
+![](images/melon.png){width="130px" fig-alt="MeLON logo"}
+:::
+::: {.g-col-12 .g-col-md-9}
+This book is published on **MeLON** (Module for e-Learning & Online Notes), the online learning platform of the College of Agriculture, Vellayani, Kerala Agricultural University. MeLON makes course notes freely available to students as online books that can be read on any device.
+:::
+:::
 
 ### Copyright Information {.unnumbered}
 
