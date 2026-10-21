@@ -6,10 +6,6 @@ The objective of a quiz competition is to encourage students to look beyond thei
 
 In education, a quiz is often a brief form of assessment used to measure growth in knowledge, abilities or skills. Compared with a formal test, a quiz usually has fewer and easier questions and takes less time to complete. A *pop quiz* is one given without any warning, so that students have no time to prepare.
 
-::: {.callout-tip title="Did you know?"}
-The expansion of QUIZ as "Quick Uniform Intelligence Zone", often seen in quiz programmes, is a *backronym*: a phrase invented to fit an existing word. The word *quiz* itself is not an acronym, and its origin is uncertain.
-:::
-
 ## Procedure for conducting a quiz
 
 [**Step 1: Know your audience**]{.underline}
@@ -49,7 +45,7 @@ Answers are given at the end of the chapter.
 1. A quiz is a form of game or mind __________ in which players answer questions.
 2. A quiz given without warning is called a __________ quiz.
 3. Compared with a test, a quiz usually has __________ questions and takes less time.
-4. A phrase invented to fit an existing word, such as "Quick Uniform Intelligence Zone", is called a __________.
+4. The first step in conducting a quiz is to know your __________.
 5. In an online quiz, the prompt shown with the results that asks participants to take a further step is called a __________.
 
 ### Short-answer questions {.unnumbered}
@@ -70,5 +66,5 @@ Answers are given at the end of the chapter.
 ### Answers to fill in the blanks {.unnumbered}
 
 ::: {.answer-key}
-`1.` sport `2.` pop `3.` fewer `4.` backronym `5.` call to action
+`1.` sport `2.` pop `3.` fewer `4.` audience `5.` call to action
 :::

@@ -90,10 +90,6 @@ First, analyse the event. Then prepare an event plan by studying your market, an
 
 **Step 7. Communicate results.** Report the outcome of the programme. Discuss every suggestion received, and put together the expenses and estimates for evaluation.
 
-::: {.callout-caution title="Historical Insights"}
-The SMART acronym was introduced by George T. Doran in a 1981 article in *Management Review* titled "There's a S.M.A.R.T. way to write management's goals and objectives" [@doran1981]. In Doran's original version, the "A" stood for *assignable* and the "T" for *time-related*; later writers changed the words, but the idea of testing every objective against five criteria remained.
-:::
-
 ::: {.callout-note title="Practical assignment"}
 Plan an event for your college (for example, a seminar, an exhibition or a biotech conclave). Prepare a SWOT analysis, an event plan using the five W's, three SMART objectives, and an event calendar listing pre-event, at-event and post-event activities.
 :::

@@ -20,10 +20,6 @@ The time management matrix is a self-management tool now widely used to prioriti
 
 Effective people try to spend most of their time in Quadrant 2. Activities in this quadrant, such as planning, preparation, building relationships and looking after one's health, prevent many tasks from becoming urgent crises in Quadrant 1 later.
 
-::: {.callout-caution title="Historical Insights"}
-The matrix is often called the *Eisenhower matrix*, after US President Dwight D. Eisenhower. In a 1954 address he quoted a former college president: "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent." The idea was popularised as a four-quadrant time management tool by Stephen R. Covey in *The 7 Habits of Highly Effective People* [@covey1989].
-:::
-
 ## Benefits of effective time management
 
 1. Reduced stress
@@ -49,7 +45,7 @@ Answers are given at the end of the chapter.
 2. The time management matrix classifies tasks into __________ quadrants.
 3. Paying taxes before the deadline is near is an example of a task that is important but not __________.
 4. Answering every e-mail within minutes of receiving it is usually urgent but not __________.
-5. The time management matrix is also called the __________ matrix.
+5. A binge-watching session falls in the quadrant that is neither urgent nor __________.
 6. Effective people try to spend most of their time in Quadrant __________.
 
 ### Short-answer questions {.unnumbered}
@@ -71,5 +67,5 @@ Answers are given at the end of the chapter.
 ### Answers to fill in the blanks {.unnumbered}
 
 ::: {.answer-key}
-`1.` productivity `2.` four `3.` urgent `4.` important `5.` Eisenhower `6.` 2
+`1.` productivity `2.` four `3.` urgent `4.` important `5.` important `6.` 2
 :::

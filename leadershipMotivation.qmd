@@ -50,10 +50,6 @@ The laissez-faire style is the opposite of the autocratic style and involves the
 
 Because leadership depends on the situation, there is no single best style. The right style is the one that suits the situation the leader is facing.
 
-::: {.callout-caution title="Historical Insights"}
-Six of these styles (coercive or autocratic, authoritative, affiliative, democratic, pacesetting and coaching) come from Daniel Goleman's article "Leadership That Gets Results" in the *Harvard Business Review* [@goleman2000], which linked each style to different aspects of emotional intelligence. The laissez-faire style is much older: it was one of the three "social climates" (autocratic, democratic and laissez-faire) compared by Kurt Lewin, Ronald Lippitt and Ralph White in their experiments with boys' clubs in the late 1930s [@lewin1939].
-:::
-
 ## Motivation
 
 Motivation is the process that initiates, guides and maintains goal-oriented behaviour. It is what causes you to act, whether that means getting a glass of water to quench your thirst or reading a book to gain knowledge. Motivation involves the biological, emotional, social and cognitive forces that activate behaviour. In everyday use, the word *motivation* describes *why* a person does something; it is the driving force behind human actions.
@@ -174,6 +170,3 @@ Answers are given at the end of the chapter.
 `1.` influence `2.` autocratic `3.` laissez-faire `4.` coaching `5.` extrinsic `6.` self-actualisation `7.` power `8.` X `9.` hygiene
 :::
 
-::: {.callout-tip title="Quotes to Inspire"}
-*"A leader is one who knows the way, goes the way, and shows the way."*: John C. Maxwell
-:::
