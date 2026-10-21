@@ -71,6 +71,9 @@ format:
     filters:
       - compact-tables.lua
     include-in-header: table-math-config.html
+    include-after-body:
+      text: |
+        <script defer src="/extn4101/assets/melon-tracker.js" data-book="professional-personal-skills"></script>
     mainfont: Georgia
     monofont: Fira Code
     highlight-style: arrow
